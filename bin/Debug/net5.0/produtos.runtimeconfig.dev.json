@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\RAYSSA\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\RAYSSA\\.nuget\\packages"
+    ]
+  }
+}

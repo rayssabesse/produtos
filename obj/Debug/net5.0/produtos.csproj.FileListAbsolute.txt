@@ -1,0 +1,16 @@
+C:\Users\RAYSSA\Desktop\Programming\SENAI\produtos\bin\Debug\net5.0\produtos.exe
+C:\Users\RAYSSA\Desktop\Programming\SENAI\produtos\bin\Debug\net5.0\produtos.deps.json
+C:\Users\RAYSSA\Desktop\Programming\SENAI\produtos\bin\Debug\net5.0\produtos.runtimeconfig.json
+C:\Users\RAYSSA\Desktop\Programming\SENAI\produtos\bin\Debug\net5.0\produtos.runtimeconfig.dev.json
+C:\Users\RAYSSA\Desktop\Programming\SENAI\produtos\bin\Debug\net5.0\produtos.dll
+C:\Users\RAYSSA\Desktop\Programming\SENAI\produtos\bin\Debug\net5.0\ref\produtos.dll
+C:\Users\RAYSSA\Desktop\Programming\SENAI\produtos\bin\Debug\net5.0\produtos.pdb
+C:\Users\RAYSSA\Desktop\Programming\SENAI\produtos\obj\Debug\net5.0\produtos.csprojAssemblyReference.cache
+C:\Users\RAYSSA\Desktop\Programming\SENAI\produtos\obj\Debug\net5.0\produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAYSSA\Desktop\Programming\SENAI\produtos\obj\Debug\net5.0\produtos.AssemblyInfoInputs.cache
+C:\Users\RAYSSA\Desktop\Programming\SENAI\produtos\obj\Debug\net5.0\produtos.AssemblyInfo.cs
+C:\Users\RAYSSA\Desktop\Programming\SENAI\produtos\obj\Debug\net5.0\produtos.csproj.CoreCompileInputs.cache
+C:\Users\RAYSSA\Desktop\Programming\SENAI\produtos\obj\Debug\net5.0\produtos.dll
+C:\Users\RAYSSA\Desktop\Programming\SENAI\produtos\obj\Debug\net5.0\ref\produtos.dll
+C:\Users\RAYSSA\Desktop\Programming\SENAI\produtos\obj\Debug\net5.0\produtos.pdb
+C:\Users\RAYSSA\Desktop\Programming\SENAI\produtos\obj\Debug\net5.0\produtos.genruntimeconfig.cache
